@@ -10,5 +10,10 @@ package dam_ed04_actividad;
  * @author 1-DAM-T
  */
 public class banquero {
+
+    public banquero() {
+    }
+    
+   
     
 }
