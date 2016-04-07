@@ -13,10 +13,4 @@ public class Empleado {
     public String nombre;
     public String apellidos;
     public String dni;
-    public String getNombre() {
-        return nombre;
-    }
-
-   
-    
 }
